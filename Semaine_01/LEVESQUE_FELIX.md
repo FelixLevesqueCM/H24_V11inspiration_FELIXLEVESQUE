@@ -1,6 +1,6 @@
 # Félix Lévesque
 
-![photo](20240126_155701.jpg)
+![photo](photo_felix.jpg)
 
 Photo de moi que je vient de prendre.
 
