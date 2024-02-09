@@ -14,3 +14,9 @@ Un tel artiste serait Christian Szczerba, qui à créé 6 court vidéos d'horreu
 
 <https://www.youtube.com/playlist?list=PLNaMVafY7XFOxNANZFkTcMaF8rFMZO8Oj>
 
+![photo](moon_prod.jpg)
+
+
+## Ce qui me plait dans l'introduction à la muséologie en TIM
+
+Voir des oeuvres multimédia exposés par des moyens rarement vu ailleurs et apprendre les différentes formes qu'un oeuvre multimédia peut prendre.
