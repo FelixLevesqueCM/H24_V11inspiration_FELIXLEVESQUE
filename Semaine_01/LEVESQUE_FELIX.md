@@ -2,7 +2,7 @@
 
 ![photo](photo_felix.jpg)
 
-Photo de moi que je vient de prendre.
+Photo de moi que j'ai pris au premier cours.
 
 
 ## **Intérets dans le multimédia**
