@@ -26,3 +26,7 @@ Les lumières sont aussi seulement utilisés dans la deuxième moitiée de l'exp
 ![photo](media/Phase_shifting_index_fin.jpg)
 
 ### Mon expérience ###
+
+Mon expérience personnelle avec Phase shifting index était surement très semblable à celle des autres visiteurs: je me suis déplacé entre les différentes projections en écoutant les documentaires jusqu'à ce que la deuxième partie de l'expérience commence. À partir de ce moment, j'étais confus jusqu'à la fin de la représentation. J'ai apprécié cette exposition, mais je trouve que les oeuvres d'art moderne défient le concept d'un oeuvre d'art, et pas vraiment pour le mieux. L'exposition semblait n'avoir aucun sens ni aucun message à transmettre et elle ressemble plus à un projet que l'artiste à réalisé pour s'amuser.
+
+![photo](media/Phase_shifting_index_data_mushing.jpg)
