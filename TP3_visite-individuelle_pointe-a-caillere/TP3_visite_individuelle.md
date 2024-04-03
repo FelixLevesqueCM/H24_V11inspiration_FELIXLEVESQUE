@@ -9,11 +9,15 @@ Voici la fiche d'inspiration pour l'exposition "Collecteur de mémoires" visité
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_cartel.jpg" height="600px">
 
+<img src="media/TP3_visite_individuelle_pointe-a-caillere_fin-projection.jpg" height="600px">
+
 ### Description des dispositifs multimédias ###
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_lumieres.jpg">
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_projecteur.jpg">
+
+<img src="media/TP3_visite_individuelle_pointe-a-caillere_projecteur-fin.jpg" height="600px">
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_speaker.jpg" height="600px">
 
