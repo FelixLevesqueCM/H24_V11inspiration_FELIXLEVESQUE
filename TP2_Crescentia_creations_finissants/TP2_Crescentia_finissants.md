@@ -11,6 +11,8 @@ Voici la fiche d'inspiration pour les différentes installation de l'exposition 
 
 #### Description des dispositifs multimédia ####
 
+### Mon expérience ###
+
 ## Rhizomatique ##
 
 <img src="media/Crescentia_rhizomatique.png" width="400px" height="400px">
@@ -18,6 +20,8 @@ Voici la fiche d'inspiration pour les différentes installation de l'exposition 
 #### Description de l'oeuvre ####
 
 #### Description des dispositifs multimédia ####
+
+### Mon expérience ###
 
 ## Kigo ##
 
@@ -27,6 +31,8 @@ Voici la fiche d'inspiration pour les différentes installation de l'exposition 
 
 #### Description des dispositifs multimédia ####
 
+### Mon expérience ###
+
 ## Sonalux ##
 
 <img src="media/Crescentia_sonalux.png" width="400px" height="400px">
@@ -35,6 +41,8 @@ Voici la fiche d'inspiration pour les différentes installation de l'exposition 
 
 #### Description des dispositifs multimédia ####
 
+### Mon expérience ###
+
 ## Effet papillon ##
 
 <img src="media/Crescentia_effet_papillon.png" width="400px" height="400px">
@@ -42,3 +50,5 @@ Voici la fiche d'inspiration pour les différentes installation de l'exposition 
 #### Description de l'oeuvre ####
 
 #### Description des dispositifs multimédia ####
+
+### Mon expérience ###
