@@ -5,6 +5,8 @@ Voici la fiche d'inspiration pour l'exposition "Collecteur de mémoires" visité
 
 ### Description de l'oeuvre ###
 
+"Collecteur de mémoires" est une oeuvre multimédia située dans un ancien égout de la ville de Montréal au musée pointe à caillère. L'exposition consiste d'un long corridor éclairé par des lumières de différentes couleurs
+
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_corridor.jpg">
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_cartel.jpg" height="600px">
