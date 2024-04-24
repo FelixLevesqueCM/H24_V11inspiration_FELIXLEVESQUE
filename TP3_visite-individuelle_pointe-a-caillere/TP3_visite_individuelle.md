@@ -23,10 +23,12 @@ Ensuite, les motifs et les photos projetés sur les murs proviennent de projecte
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_moment-factory.jpg" height="600px">
 
-Finalement, les haut-parleurs qui diffusent la musique et l'ambiance de l'exposition sont aussi cachés le long de la balustrade
+Finalement, les haut-parleurs qui diffusent la musique et l'ambiance de l'exposition sont aussi cachés le long de la balustrade. Tout ces haut-parleurs sont sincronisés pour ne pas créer de confusion et de dissonnance dans les sons diffusés. Un haut-parleur sur deux ce retrouve directement à côté d'un projecteur puisqu'ils y en à deux fois plus de haut-parleurs que de projecteurs.
 
-<img src="media/TP3_visite_individuelle_pointe-a-caillere_speaker.jpg" height="600px"> <img>
+<img src="media/TP3_visite_individuelle_pointe-a-caillere_speaker.jpg" height="600px"> <img src="media/TP3_visite_individuelle_pointe-a-caillere_fils.jpg" height="600px">
 
 ### Mon expérience ###
+
+Mon expérience avec l'exposition "Collecteur de Mémoires" était très agréable. Ce n'était pas la première fois que je voyait cette expérience, mais c'était la première fois que je pouvait la vivre presque seul, car le musée pointe à caillère n'est pas souvent fréquenté un vendredi après-midi ce qui amplifiait le sentiment de calme que produit la visite de cette exposition.
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_projection.jpg">
