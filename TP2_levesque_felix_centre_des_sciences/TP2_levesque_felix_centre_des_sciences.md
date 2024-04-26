@@ -22,4 +22,6 @@ Cette installation de l'exposition permanente du Centre des sciences est consitu
 
 ### Expérience personnelle et conclusion ###
 
-Bien que l'intelligence artificielle utilisée dans cette installation ne soit pas aussi puissante que d'autres AI de création d'images tel que Dall-E ou Midjourney, elle produisait de bons résultat. Ce dispositif multimédia m'a intéressé, car je ne m'attendais pas à voir une technologie aussi récente présentée dans l'exposition permanente du Centre des Sciences de Montréal. 
+Bien que l'intelligence artificielle utilisée dans cette installation ne soit pas aussi puissante que d'autres AI de création d'images tel que Dall-E ou Midjourney, elle produisait de bons résultat et c'était très amusant d'expérimenter avec les différentes combinaisons de réglages offerts par l'AI. Ce dispositif multimédia m'a intéressé, car je ne m'attendais pas à voir une technologie aussi récente présentée dans l'exposition permanente du Centre des Sciences de Montréal. Pour finir, j'ai bien aimé la visite aux Centre des Sciences, c'était trés intéressant de voir le fonctionnement des dispositifs et l'exposition était elle aussi très intéressente.
+
+<img src="media/TP2_centre_des_sciences_felix.png" height="500px"> <img src="media/TP2_centre_des_sciences_thomas.png" height="500px">
