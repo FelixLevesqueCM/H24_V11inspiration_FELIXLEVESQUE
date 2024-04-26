@@ -107,10 +107,16 @@ Le panneau d'interraction consiste de quarte boutons controlants quatre sons dif
 
 #### Description de l'oeuvre ####
 
+Lors de la visite de "Effet papillon", les visiteurs doivent interragir avec différents objets à travers la salle pour faire pousser un arbre et ceuillir une "pomme". Les interractions avec l'arbre représentent les stages de croissance d'un arbre, créant le lien avec le thème de "Crescentia". Les objets interactifs représentent des ressources que l'arbre à besoin pour pousser comme des boutons pour "activer" le soleil, une pompe pour donner de l'eau et une corde pour ceuillir la pomme.
 
+<img src="media/Crescentia_effet_papillon_fils.jpg" height="400px"> <img src="media/Crescentia_effet_papillon_interaction-1.jpg" height="400px">
 
 #### Description des dispositifs multimédia ####
 
+Cette installation contient une grande variétée de dispositifs multimédias. Premièrement, plusieurs projecteurs et haut-parleurs sont installés dans la salle pour créer l'ambience de l'expérience. Ensuite, un poteau couvert de fils et de petits écrans représente l'arbre. Nous pouvons voir l'arbre pousser par les écrans présentants un arbre rendu en 3D. Finalement, les interactions des visiteurs sont détectés via plusieurs objets différents tels que des interrupteurs, des boutons et des cordes.
 
+<img src="media/Crescentia_effet_papillon_projecteur-et-speaker.jpg" height="400px"> <img src="media/Crescentia_effet_papillon_interaction-2.jpg" height="400px">
 
 ### Mon expérience ###
+
+"Effet papillon" était l'expérience qui ressemblait le plus à une oeuvre d'art qu'à une installation interactive. Je pense que c'est l'une des équipes qui ont réfléchit le plus longtemps à leurs concept et ce concept à très bien été exécuté. C'est définitivement l'une des meilleures oeuvres de l'exposition.
