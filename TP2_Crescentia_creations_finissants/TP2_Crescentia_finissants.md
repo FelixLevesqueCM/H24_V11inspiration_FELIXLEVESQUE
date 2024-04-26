@@ -20,6 +20,8 @@ Le panneau d'interraction consiste de quarte boutons controlants quatre sons dif
 
 <img src="media/Crescentia_sonalux_plantation.png" width="800px">
 
+Soucre: ![TIM Montmorency](https://tim-montmorency.com/2024/)
+
 <img src="media/Crescentia_sonalux_boutons.jpg" width="800px">
 
 <img src="media/Crescentia_sonalux_ordinateur.jpg" height="400px"> <img src="media/Crescentia_sonalux_projecteurs.jpg" height="400px">
@@ -45,6 +47,8 @@ L'installation de "Canevas Cosmique" permet au visiteur d'interragir avec un sys
 L'oeuvre est composée d'un projecteur et d'une kinect sous une table semi-transparente. En-dessous de chaque statue ce trouve un code que la kinect peut lire, l'information est envoyée au programme qui place le bon objet au bon endroit dans la simulation du système solaire. La simulation est ensuite projetée sous la table et sur le mur en face.
 
 <img src="media/Crescentia_canevas_cosmique_plantation.png">
+
+Soucre: ![TIM Montmorency](https://tim-montmorency.com/2024/)
 
 <img src="media/Crescentia_canevas_cosmique_dessou_table.jpg" height="400px"> <img src="media/Crescentia_canevas_cosmique_dessou_statues.jpg" height="400px">
 
@@ -92,6 +96,8 @@ L'interraction se fait par une toile tendue au dessus d'une kinect et d'un proje
 
 <img src="media/Crescentia_rhizomatique_plantation.png">
 
+Soucre: ![TIM Montmorency](https://tim-montmorency.com/2024/)
+
 <img src="media/Crescentia_rhizomatique_interaction.jpg" height="400px"> <img src="media/Crescentia_rhizomatique_projecteurs.jpg" height="400px">
 
 ### Mon expérience ###
@@ -115,6 +121,9 @@ J'ai bien aimé "Rhizomatique", je pense que c'est l'installation qui représent
 Le jeu détecte les actions du joueur par la kinect possée devant l'aire de jeux. Les informations des mouvements du visiteur sont envoyés au jeu qui donne ces mouvements au modèle du joueur. Le jeu envoit différents objets vers le joueur qui, lorqu'ils entrent en contact avec le personnage, peuvent augmenter son score ou lui enlever une "vie". La vitesse du jeu augment petit à petit jusqu'a ce que le joueur perde toute ces trois "vies", le score obtenu est alors comparé au plus haut score atteint par un autre joueur.
 
 <img src="media/Crescentia_kigo_plantation.png">
+
+Soucre: ![TIM Montmorency](https://tim-montmorency.com/2024/)
+
 
 ### Mon expérience ###
 
