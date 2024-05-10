@@ -11,9 +11,9 @@ Présentation de l'oeuvre et de mon expérience.
 
   - Collecteur de mémoires.
   - Exposition permanente au musée pointe-à-caillère.
+  - Située dans le premier égout de l'amérique du nord
   - Ouverture le 17 mai 2017.
   - Exposition immersive.
-  - Située dans le premier égout de l'amérique du nord
   - Visité le 1er mars 2024.
 
 <img src="media/TP3_visite_individuelle_pointe-a-caillere_cartel.jpg" height="600px">
